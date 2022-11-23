@@ -4,10 +4,11 @@
 ## 🛠 Udemy Certificates:
 [![Python](https://img.shields.io/badge/Python_Flask_Bootcamp-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/BalakayBishop/BalakayBishop/blob/main/Certificates/Python-Flask%20Certificate.pdf)
 [![HTML](https://img.shields.io/badge/HTML_and_CSS_Bootcamp-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/BalakayBishop/BalakayBishop/blob/main/Certificates/Udemy%20HTML%20and%20CSS%20Bootcamp%20Certificate.pdf)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/BalakayBishop/BalakayBishop/blob/main/Certificates/Udemy-Git%20Certificate.pdf)
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/balakay#3489) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/balakay#3489)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blake-bishop-profile)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/BalakayBishop)
 
