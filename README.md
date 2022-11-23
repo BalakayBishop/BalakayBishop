@@ -1,6 +1,6 @@
 # 💫 About Me:
 ⚡ Fun fact, I am currently enrolled at National University <br>working towards earning my Master's in Computer Science.<br><br>🔭 I’m currently working on projects for my school assignments.<br><br>👯 I’m looking to collaborate on any and all projects.<br><br>🌱 Throughout the course of my program I have learned C++, Java, C#, SQL, HTML, CSS, and PHP.<br> I’m currently learning full-stack development using Python w/ Flask.<br><br>Udemy Certificates:<br>
-  [![Python and Flask Bootcamp](https://img.shields.io/static/v1?label=Python-Flask-Bootcamp&color=blue)]([htttps://discord.gg/balakay#3489](https://github.com/BalakayBishop/BalakayBishop/blob/main/Certificates/Python-Flask%20Certificate.pdf))
+  [![Python and Flask Bootcamp](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/BalakayBishop/BalakayBishop/blob/main/Certificates/Python-Flask%20Certificate.pdf))
   HTM5 and CSS3, Git
 
 
