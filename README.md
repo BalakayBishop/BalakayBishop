@@ -3,7 +3,7 @@
 
 ## 🛠 Udemy Certificates:
 [![Python](https://img.shields.io/badge/Python_Flask_Bootcamp-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/BalakayBishop/BalakayBishop/blob/main/Certificates/Python-Flask%20Certificate.pdf)
-[![HTML](https://img.shields.io/badge/HTML_and_CSS_Bootcamp-%E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/BalakayBishop/BalakayBishop/blob/main/Certificates/Udemy%20HTML%20and%20CSS%20Bootcamp%20Certificate.pdf)
+[![HTML](https://img.shields.io/badge/HTML_and_CSS_Bootcamp-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/BalakayBishop/BalakayBishop/blob/main/Certificates/Udemy%20HTML%20and%20CSS%20Bootcamp%20Certificate.pdf)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/BalakayBishop/BalakayBishop/blob/main/Certificates/Udemy-Git%20Certificate.pdf)
 
 
