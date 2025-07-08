@@ -1,4 +1,4 @@
-# Hello 👋, I'm Blake Bishop
+# Hello 👋 I'm Blake Bishop
 ### Web Developer/Programmer
 
 I am a Web Developer/Programmer (Full Stack Developer) for the San Diego County Office of Education. For many of our projects within SDCOE, we utilize and leverage the power of C# and .NET Core with ASP.NET Core MVC as our main backend language. For our frontend, we utilize Progress Telerik's Kendo UI for jQuery library to create interactive and dynamic components for our end-users. 
