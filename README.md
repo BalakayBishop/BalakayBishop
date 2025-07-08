@@ -1,17 +1,122 @@
-# 💫 About Me:
-⚡ Fun fact, I am currently enrolled at National University <br>working towards earning my Master's in Computer Science.<br><br>🔭 I’m currently working on projects for my school assignments.<br><br>👯 I’m looking to collaborate on any and all projects.<br><br>🌱 Throughout the course of my program I have learned C++, Java, C#, SQL, HTML, CSS, and PHP.<br> I’m currently learning full-stack development using Python w/ Flask.
+# Hello 👋 I'm, I'm Blake Bishop
+### Web Developer/Programmer
 
-## :page_with_curl: Udemy Certificates:
-[![Python](https://img.shields.io/badge/Python_Flask_Bootcamp-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/BalakayBishop/BalakayBishop/blob/main/Certificates/Python-Flask%20Certificate.pdf)
-[![HTML](https://img.shields.io/badge/HTML_and_CSS_Bootcamp-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/BalakayBishop/BalakayBishop/blob/main/Certificates/Udemy%20HTML%20and%20CSS%20Bootcamp%20Certificate.pdf)
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/BalakayBishop/BalakayBishop/blob/main/Certificates/Udemy-Git%20Certificate.pdf)
-[![JavaScript](https://img.shields.io/badge/JavaScript_Bootcamp-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/BalakayBishop/BalakayBishop/blob/main/Certificates/Udemy-Git%20Certificate.pdf)
+I am a Web Developer/Programmer (Full Stack Developer) for the San Diego County Office of Education. For many of our projects within SDCOE, we utilize and leverage the power of C# and .NET Core with ASP.NET Core MVC as our main backend language. For our frontend, we utilize Progress Telerik's Kendo UI for jQuery library to create interactive and dynamic components for our end-users. 
 
+In 2023, I graduated from National University, where I earned my Master of Science in Computer Science. During my time at National, I was exposed to many programming languages, including C++, Java, C#, and PHP. 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/balakay#3489)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/blake-bishop-profile)
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/BalakayBishop)
+While attending National, I also worked full-time as a contractor for Rady Children's Hospital of San Diego in the Genomics department, where I was mentored by the Senior Manager of the development team. During this time, my mentor guided and challenged my full-stack development skills for enterprise-level applications using Flask, Python's web framework, and jQuery for dynamic user interactions with AJAX. 
+
+In July of 2023, I was hired by SDCOE as a Web Developer Programmer. Since then, I have been using C# and .NET Core as my main programming language for the backend. Over the past 2 years at SDCOE, I have pushed myself to try new technologies and improve my overall skills as a web developer. I have created APIs for Push Notifications via Web Push, implemented MFA via TOTP using Twilio's API and NuGet package, Outlook Web Plugins to extend functionality, Azure Maps API for routing, Azure Functions to create serverless functions that run when triggered by an HTTP Request, and finally learned, implemented, and extended Progress Telerik's Kendo UI for jQuery.
+
+I can confidently say that I am a Full-Stack Web Developer who focuses on creating responsive, full-featured web applications for end-users. I am dedicated to being a lifelong learner!
+
+## Contact Me
+<p><a href="https://www.linkedin.com/in/blake-bishop-profile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+
+## 💻 Tech Stack:
+Languages:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+</p>
+
+Frameworks:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".net core" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>&nbsp;
+</p>
+
+Frontend UI/UX:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" alt="blazor" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+</p>
+
+Database:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="40" height="40"/>&nbsp;
+</p>
+
+Cloud & Hosting:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>&nbsp;
+</p>
+
+IDEs: 
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visual studio" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" alt="rider" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>&nbsp;
+</p>
+
+## Projects
+
+### Red Herring
+
+Red Herring is a secure, full-stack web application designed to simplify the review, reconciliation, and reporting of manually entered data from disparate sources. Built with ASP.NET Core 8.0 (MVC), Entity Framework Core, SQL Server, and enhanced with jQuery for dynamic UI interactions, Red Herring empowers teams to validate large datasets efficiently with streamlined user workflows and real-time feedback.
+
+This project emphasizes clean architecture, separation of concerns, and asynchronous data processing. It leverages repository and service patterns to ensure maintainable, testable code and scalable data access. Red Herring is ideal for organizations that need a reliable internal tool to reconcile human-entered records across multiple systems with traceability, audit support, and business rule enforcement.
+
+🚀 Key Features
+
+Customizable validation rules engine for domain-specific checks
+
+Audit logging for transparency and change tracking
+
+Modular, maintainable codebase following SOLID principles
+
+Responsive UI built with Bootstrap and jQuery
+
+Asynchronous workflows for efficient data review and processing
+
+Seamless integration with SQL Server using EF Core
+
+---
+
+### C# Push Notifications
+
+This project is a Proof of Concept (POC) project that I created in my spare time to develop, implement, and test sending Push Notifications to a user's browser via an ASP.NET Core Web Api using the Web Push NuGet Package.
+
+[View Project](https://github.com/BalakayBishop/C-Sharp_Push_Notifications)
+
+---
+
+### Azure Functions
+
+This project is a proof-of-concept project that I created in my spare time to develop, implement, and test Azure Functions. This was my first attempt at developing an Azure Function using C# and .NET Core. This repository would be the stepping stone I used to develop another Azure Function that is used in conjunction with an Outlook Web Addin I developed for Red Herring.
+
+[View Project](https://github.com/BalakayBishop/Azure_Functions_POC)
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=BalakayBishop&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalakayBishop&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BalakayBishop&theme=null" alt="GitHub Streak" />
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=BalakayBishop" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BalakayBishop&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
+
 
 # 💻 Tech Stack:
 Languages:
@@ -35,38 +140,9 @@ IDEs:
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-Hosting:
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-Learning:
-
-![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
-OS:
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-Security/MFA:
-
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-
-Version Control:
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Cloud:
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BalakayBishop&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BalakayBishop&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BalakayBishop&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BalakayBishop&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BalakayBishop&icon=2&color=0)](https://visitcount.itsvg.in)
